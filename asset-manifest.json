@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/dummyTable/static/css/main.126eb6e5.css",
+    "main.js": "/dummyTable/static/js/main.4b7cb4f5.js",
+    "static/js/727.1de7a54f.chunk.js": "/dummyTable/static/js/727.1de7a54f.chunk.js",
+    "static/js/731.1da60555.chunk.js": "/dummyTable/static/js/731.1da60555.chunk.js",
+    "static/js/888.fd240935.chunk.js": "/dummyTable/static/js/888.fd240935.chunk.js",
+    "static/js/273.8a33d6f2.chunk.js": "/dummyTable/static/js/273.8a33d6f2.chunk.js",
+    "static/css/432.c2739a72.chunk.css": "/dummyTable/static/css/432.c2739a72.chunk.css",
+    "static/js/432.dfaebbc4.chunk.js": "/dummyTable/static/js/432.dfaebbc4.chunk.js",
+    "static/css/420.c2739a72.chunk.css": "/dummyTable/static/css/420.c2739a72.chunk.css",
+    "static/js/420.495b9a54.chunk.js": "/dummyTable/static/js/420.495b9a54.chunk.js",
+    "static/js/608.3acd822f.chunk.js": "/dummyTable/static/js/608.3acd822f.chunk.js",
+    "index.html": "/dummyTable/index.html",
+    "main.126eb6e5.css.map": "/dummyTable/static/css/main.126eb6e5.css.map",
+    "main.4b7cb4f5.js.map": "/dummyTable/static/js/main.4b7cb4f5.js.map",
+    "727.1de7a54f.chunk.js.map": "/dummyTable/static/js/727.1de7a54f.chunk.js.map",
+    "731.1da60555.chunk.js.map": "/dummyTable/static/js/731.1da60555.chunk.js.map",
+    "888.fd240935.chunk.js.map": "/dummyTable/static/js/888.fd240935.chunk.js.map",
+    "273.8a33d6f2.chunk.js.map": "/dummyTable/static/js/273.8a33d6f2.chunk.js.map",
+    "432.c2739a72.chunk.css.map": "/dummyTable/static/css/432.c2739a72.chunk.css.map",
+    "432.dfaebbc4.chunk.js.map": "/dummyTable/static/js/432.dfaebbc4.chunk.js.map",
+    "420.c2739a72.chunk.css.map": "/dummyTable/static/css/420.c2739a72.chunk.css.map",
+    "420.495b9a54.chunk.js.map": "/dummyTable/static/js/420.495b9a54.chunk.js.map",
+    "608.3acd822f.chunk.js.map": "/dummyTable/static/js/608.3acd822f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126eb6e5.css",
+    "static/js/main.4b7cb4f5.js"
+  ]
+}

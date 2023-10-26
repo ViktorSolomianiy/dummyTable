@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_task=self.webpackChunktest_task||[]).push([[731],{731:function(n,e,t){t.r(e),t.d(e,{Header:function(){return i},Link:function(){return u}});var o,r,a=t(168),c=t(867),s=t(87),i=c.ZP.div(o||(o=(0,a.Z)(["\n  display: flex;\n  gap: 15px;\n  margin-bottom: 20px;\n"]))),u=(0,c.ZP)(s.OL)(r||(r=(0,a.Z)(["\n  font-size: 20px;\n  color: black;\n\n  &:hover {\n    color: orange;\n  }\n\n  &.active {\n    color: orange;\n  }\n"])))}}]);
+//# sourceMappingURL=731.1da60555.chunk.js.map

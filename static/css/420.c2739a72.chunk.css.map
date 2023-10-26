@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/420.c2739a72.chunk.css","mappings":"AAAA,MACE,wBACF,CAEA,SACE,YACF,CAEA,YAGE,qBACF","sources":["tabs/dummyTable.css"],"sourcesContent":["table {\n  border-collapse: collapse;\n}\n\ntable td {\n  padding: 10px;\n}\n\ntable,\ntr,\ntd {\n  border: 1px solid black;\n}\n"],"names":[],"sourceRoot":""}
